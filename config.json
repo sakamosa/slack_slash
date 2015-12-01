@@ -1,0 +1,6 @@
+{
+	"slack_token": "SLACK_TOKEN",
+	"gh_user": "GITHUB_USERNAME",
+	"gh_token": "GITHUB_OAUTH_TOKEN",
+	"gh_repo": "GITHUB_REPO"
+}
